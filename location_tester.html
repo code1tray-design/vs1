@@ -342,7 +342,7 @@
       setDetail(`${dist.toFixed(2)} km from campus · ±${Math.round(accuracy)} m accuracy`);
       // Clear pending, keep session
       sessionStorage.removeItem('mindclash_pending');
-      setTimeout(() => { window.location.href = DASHBOARD_URL; }, 1500);
+      setTimeout(() => { window.location.href = homepage.html; }, 1500);
 
     } else {
       // ── DENIED ──────────────────────────────────────────────
