@@ -9,30 +9,30 @@
 // ================================================================
 const COURSES = [
   {
-    title:"Artfdssdfdsificial Intelligence — BCom Guide",
-    tag:"AI Notes",
-    desc:"AI, machine learning basics, and real-world applications in business & accounting.",
-    file:"ai-course.html",
+    title:"VIKSIT BHARAT - Skill to Scale Startup Simulator.",
+    tag:"quiz based",
+    desc:"real-world applications in business & accounting.",
+    file:"game.html",
     icon:"🤖",
     bg:"linear-gradient(135deg,#1c0035 0%,#450a7a 100%)",
     badge:"NEW", bc:"bn",
-    meta:"8 Topics · May 2025"
+    meta:"18 Topics · May 2025"
   },
   {
-    title:"Business Cagfgdse Studies",
-    tag:"Case Study",
-    desc:"Real Indian & global business cases covering strategy, finance and operations.",
-    file:"case-study.html",
+    title:"stage 1",
+    tag:"LEVEL 2",
+    desc:"Market Field Study Submission.",
+    file:"test1.html",
     icon:"📁",
     bg:"linear-gradient(135deg,#00082e 0%,#0a1f7a 100%)",
     badge:"HOT", bc:"bh",
     meta:"12 Cases · April 2025"
   },
   {
-    title:"Accounts & Commerce Quiz",
+    title:"CASE STUDY",
     tag:"Quiz",
     desc:"Topic-wise MCQs and short-answer practice sets for BCom exams.",
-    file:"quiz.html",
+    file:"case-study.html",
     icon:"📝",
     bg:"linear-gradient(135deg,#00180e 0%,#013d22 100%)",
     badge:"TOP", bc:"bt",
